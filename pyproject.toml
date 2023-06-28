@@ -16,8 +16,8 @@ python = "^3.6"
 [tool.poetry.dev-dependencies]
 pytest = "*"
 streamlit = "^1.0.0"
-bleach = "^6.0.0"
-ipykernel = "^6.23.3"
+bleach = "^4.1.0"
+ipykernel = "^5.5.1"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
